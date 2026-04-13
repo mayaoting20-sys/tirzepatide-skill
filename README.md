@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/26671459/README.md)
-# 替尔泊肽技能（Tirzepatide Skill）
+# 替尔🪡小助手（Tirzepatide Skill）
 
 > "我在用替尔泊肽，但网上的信息太散了，所以我做了这个。"
 
