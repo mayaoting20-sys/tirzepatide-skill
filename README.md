@@ -1,5 +1,7 @@
-[README.md](https://github.com/user-attachments/files/26671459/README.md)
-# 替尔🪡小助手（Tirzepatide Skill）
+[README.md](https://github.com/user-attachments/files/26671630/README.md)
+# 替尔🪡问答助手（Tirzepatide Skill）
+
+![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-orange) ![License](https://img.shields.io/badge/License-MIT-blue) ![Language](https://img.shields.io/badge/语言-中文-red)
 
 > "我在用替尔泊肽，但网上的信息太散了，所以我做了这个。"
 
