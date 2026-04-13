@@ -3,11 +3,9 @@
 
 ![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-orange) ![License](https://img.shields.io/badge/License-MIT-blue) ![Language](https://img.shields.io/badge/语言-中文-red)
 
-> "我在用替尔泊肽，但网上的信息太散了，所以我做了这个。"
+> "我在用替尔泊肽，但网上的信息太散了，所以把替尔泊肽说明书、临床数据、常见问答，封装成 AI Skill，随时问随时答。"
 
 **回答仅根据公开信息和说明书展开！不能代替医嘱！使用请先询医嘱！**
-**把替尔泊肽说明书、临床数据、常见问答，封装成 AI Skill，随时问随时答。**
-
 ---
 
 ## 包含内容
